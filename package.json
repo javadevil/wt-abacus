@@ -19,5 +19,13 @@
   "bugs": {
     "url": "https://github.com/javadevil/wt-abacus/issues"
   },
-  "homepage": "https://github.com/javadevil/wt-abacus#readme"
+  "homepage": "https://github.com/javadevil/wt-abacus#readme",
+  "dependencies": {
+    "compression": "^1.6.1",
+    "connect-mongo": "^1.1.0",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "mongodb": "^2.1.18",
+    "serve-static": "^1.10.2"
+  }
 }

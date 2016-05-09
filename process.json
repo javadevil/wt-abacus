@@ -1,0 +1,11 @@
+//PM2 Process settings
+{
+	"apps" : {
+		"name" : "abacus",
+		"script" : "application.sjs",
+		"watch" : true,
+		"ignore_watch" : ["node_module"],
+		"error_file" : "./log/error.log",
+		"out_file" : "./log/out.log"
+	}
+}

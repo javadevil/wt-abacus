@@ -1,0 +1,11 @@
+{
+	"mongodb" : {
+		"url" : "mongodb://192.168.99.100:32768/abacus"
+	},
+	"session" : {
+		"secret" : "foobarbaz"
+	},
+	"http" : {
+		"port" : 8080
+	}
+}
