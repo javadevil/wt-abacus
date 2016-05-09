@@ -1,0 +1,23 @@
+{
+  "name": "wt-abacus",
+  "version": "1.0.0",
+  "description": "Simple Business Software",
+  "main": "application.sjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javadevil/wt-abacus.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "MongoDB"
+  ],
+  "author": "Wacharabuhm Tungketmukda",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/javadevil/wt-abacus/issues"
+  },
+  "homepage": "https://github.com/javadevil/wt-abacus#readme"
+}
